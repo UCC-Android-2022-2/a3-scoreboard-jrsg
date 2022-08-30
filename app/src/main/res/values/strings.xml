@@ -7,4 +7,6 @@
     <string name="l">L</string>
     <string name="v">V</string>
     <string name="cero">0</string>
+    <string name="tenis">Tenis</string>
+    <string name="voleibol">Voleibol</string>
 </resources>

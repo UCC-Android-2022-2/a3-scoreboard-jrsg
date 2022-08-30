@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opc_futbol"
+        android:title="@string/futbol" />
+    <item
+        android:id="@+id/opc_tenis"
+        android:title="@string/tenis" />
+    <item
+        android:id="@+id/opc_voleibol"
+        android:title="@string/voleibol" />
+</menu>
